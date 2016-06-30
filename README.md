@@ -33,3 +33,6 @@ create:$ Art     ///Art History 2 ///Where is Botero from? ///Turkey ///Nashvill
 In the future it would be good to allow for quizzes of different types, not just multiple choice. This would allow users to create and take quizzes that have a wide range of difficulty and could be used as a study tool for users. The MapReduce also could be faster, as it now uses a linear search algorithm in order to search for quizzes.
 
 We also included high score and high scorer member fields in the Quiz objects, and therefore it would be a good improvement to have users log in and their information could be saved to specific quizzes if they achieved a high score.
+
+![Quizzard Main Page](https://cloud.githubusercontent.com/assets/17078052/16494308/d88721ec-3eb6-11e6-8863-25d5960b6eb5.png)
+![Quizzard Tag Page](https://cloud.githubusercontent.com/assets/17078052/16494322/edfed2e0-3eb6-11e6-9691-94fbce1ab7d4.png)
