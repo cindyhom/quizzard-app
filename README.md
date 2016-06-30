@@ -12,12 +12,9 @@ Quizzard Main Page            |  Quizzard Tag Page
 
 ###Instructions for running:
 1. Log in to EC2 (public IP: 54.174.83.66)
-
 2. cd into hadoop-2.6.4
-
 3. Run the Quizzard Server using the command: bin/hadoop jar /home/ubuntu/QuizzardServer.jar 9003
     Note: 9003 is the port numver we have hard coded for the connection
-
 4. Run the Android application
 
 ###App Overview:
@@ -37,7 +34,9 @@ We worked on allowing users to create their own quizzes, and we were able to get
 
 The quiz script must follow the format of the data file, which includes "///" delimiters between each of the items. For example, if you wanted to create a quiz with two questions you could call:
 
-'create:$ Art     ///Art History 2 ///Where is Botero from? ///Turkey ///Nashville ///Colombia ///Spain ///Colombia ///Where is El Grecos House? ///Greece ///Nashville ///Toledo, Spain ///Toledo, OH ///Toledo, Spain ///Abe Fraifeld ///20 ///Brittany Logan'
+'''
+create:$ Art     ///Art History 2 ///Where is Botero from? ///Turkey ///Nashville ///Colombia ///Spain ///Colombia ///Where is El Grecos House? ///Greece ///Nashville ///Toledo, Spain ///Toledo, OH ///Toledo, Spain ///Abe Fraifeld ///20 ///Brittany Logan
+'''
 
 In the future it would be good to allow for quizzes of different types, not just multiple choice. This would allow users to create and take quizzes that have a wide range of difficulty and could be used as a study tool for users. The MapReduce also could be faster, as it now uses a linear search algorithm in order to search for quizzes.
 
