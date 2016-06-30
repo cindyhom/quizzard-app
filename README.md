@@ -5,7 +5,7 @@ Team Members: Abe Fraifeld, Cindy Hom, Brittany Logan, Maya McCoy
 ch991QuizzardFinal.zip contains all of the java and xml files, as well as the image icons necessary to run the project. The other java files in the repository are here to show a quick look at some of the code since there are a lot of files.
 
 
-Quizzard Main Page            |  Quizzard Tag Page
+Quizzard Home Page            |  Quizzard Tag Page
 :-------------------------:|:-------------------------:
 ![Quizzard Main Page](https://cloud.githubusercontent.com/assets/17078052/16494308/d88721ec-3eb6-11e6-8863-25d5960b6eb5.png) | ![Quizzard Tag Page](https://cloud.githubusercontent.com/assets/17078052/16494322/edfed2e0-3eb6-11e6-9691-94fbce1ab7d4.png)
 
