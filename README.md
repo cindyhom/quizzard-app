@@ -14,7 +14,7 @@ Quizzard Main Page            |  Quizzard Tag Page
 1. Log in to EC2 (public IP: 54.174.83.66)
 2. cd into hadoop-2.6.4
 3. Run the Quizzard Server using the command: bin/hadoop jar /home/ubuntu/QuizzardServer.jar 9003
-    Note: 9003 is the port numver we have hard coded for the connection
+    Note: 9003 is the port number we have hard coded for the connection
 4. Run the Android application
 
 ###App Overview:
